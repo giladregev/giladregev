@@ -8,6 +8,3 @@
 giladregev/giladregev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi.  I have 14 miners nex to the dead sea in israel. All of the not working mor then 10 days.
-How can i make tham. work again.
-Thx
